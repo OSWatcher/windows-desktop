@@ -1,7 +1,7 @@
 {
-  "MIME": "font/sfnt",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, 16 tables, 1st \"FFTM\", 49 names, Macintosh",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "ae944e9b5ef3285f8d27019fc665002a8e0dbe79"
+  "sha1": "c822f5c9db4c617330f8584c5d40177f7eba66a5"
 }

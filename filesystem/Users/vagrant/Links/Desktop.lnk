@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "MS Windows shortcut, Item id list present, Points to a file or directory, Has Relative path, Read-Only, Directory, ctime=Wed Jan 13 21:51:39 2021, mtime=Wed Jan 13 21:51:48 2021, atime=Wed Jan 13 21:51:48 2021, length=0, window=hide",
+  "magic_type": "MS Windows shortcut, Item id list present, Points to a file or directory, Has Relative path, Read-Only, Directory, ctime=Wed Jan 13 22:23:24 2021, mtime=Wed Jan 13 22:23:31 2021, atime=Wed Jan 13 22:23:31 2021, length=0, window=hide",
   "mode": "-rwxrwxrwx",
-  "sha1": "03fde7fb1a1f172794d0d1888c2cc3ec5a60e74e"
+  "sha1": "a84952eab7bc906412a4cbd44bbb264fd39b6b01"
 }

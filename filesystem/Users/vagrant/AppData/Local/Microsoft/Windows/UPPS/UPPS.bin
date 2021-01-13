@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "VAX COFF pure executable, sections 0, created Sat Jun 20 11:03:57 1970, not stripped",
   "mode": "-rwxrwxrwx",
-  "sha1": "8b02caa3668fdd8ed3eb3fbf0eead47aebf0374d"
+  "sha1": "149a6385aa66bed9dc96307c949eb9535e18a110"
 }

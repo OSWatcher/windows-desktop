@@ -1,7 +1,7 @@
 {
-  "MIME": "application/octet-stream",
+  "MIME": "application/x-dosexec",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "COM executable for DOS",
   "mode": "-rwxrwxrwx",
-  "sha1": "1d352af5a51fe652ff8bac7dd50c5654c857af01"
+  "sha1": "cd79215a41a12473c6eb529a2093e251d6af8026"
 }

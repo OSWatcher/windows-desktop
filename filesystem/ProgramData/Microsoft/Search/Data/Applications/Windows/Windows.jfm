@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-dbt",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "dBase III DBT, version number 0, next free block index 3062980666",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "2aa3afa6f04809efde471fc0e0e7f0c94faf325f"
+  "sha1": "f4f002e75395c9019d32518d03a01b51f1d6391b"
 }

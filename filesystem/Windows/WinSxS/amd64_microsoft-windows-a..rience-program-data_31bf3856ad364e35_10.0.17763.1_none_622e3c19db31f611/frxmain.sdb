@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-ms-sdb",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Windows application compatibility Shim DataBase",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "a35ddc896cf52f70adff966d1c4404b931bace82"
+  "sha1": "b122fadbb592181db113c2fb81da051506ad3081"
 }
