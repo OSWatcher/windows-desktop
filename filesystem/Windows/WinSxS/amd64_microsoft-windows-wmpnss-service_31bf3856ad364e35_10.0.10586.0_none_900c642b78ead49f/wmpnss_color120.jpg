@@ -1,7 +1,7 @@
 {
-  "MIME": "image/jpeg",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=0], baseline, precision 8, 120x120, components 3",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "b832b20ea60f4e2187ba0f7cfb081cd35d781858"
+  "sha1": "127d50b764ad229e0ddcf46078c573f6e57573f8"
 }

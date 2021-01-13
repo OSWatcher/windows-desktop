@@ -20,8 +20,8 @@
     "high_entropy_va": 42.3,
     "manifest_isolation": 100.0,
     "nx_compat": 99.0,
-    "seh": 57.0
+    "seh": 57.1
   },
-  "PE_count": 28193,
-  "total": 28193
+  "PE_count": 28201,
+  "total": 28201
 }

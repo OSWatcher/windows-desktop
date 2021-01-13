@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-dosexec",
-  "inode_type": "REG",
-  "magic_type": "PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows",
-  "mode": "-rwxrwxrwx",
-  "sha1": "90ca8437086477c42cba5f218a2b5f9cb34c7fc4"
-}
