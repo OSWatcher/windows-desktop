@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
+  "MIME": "text/x-msdos-batch",
   "inode_type": "REG",
-  "magic_type": "ASCII text, with CRLF line terminators",
+  "magic_type": "DOS batch file, ASCII text, with CRLF line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "b0b7c59c194eb943dc0e11e375aad3300b229260"
+  "sha1": "35fc564dc00a7c1ecf4b5ff3308b91364ad4c8bf"
 }

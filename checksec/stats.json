@@ -16,12 +16,12 @@
   "PE": {
     "dynamic_base": 99.2,
     "force_integrity": 0.9,
-    "guard_cf": 50.0,
-    "high_entropy_va": 41.5,
+    "guard_cf": 50.9,
+    "high_entropy_va": 42.3,
     "manifest_isolation": 100.0,
     "nx_compat": 99.0,
-    "seh": 55.8
+    "seh": 57.0
   },
-  "PE_count": 28151,
-  "total": 28151
+  "PE_count": 28193,
+  "total": 28193
 }
