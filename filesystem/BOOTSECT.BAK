@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "DOS/MBR boot sector, code offset 0x52+2, OEM-ID \"NTFS    \", sectors/cluster 8, Media descriptor 0xf8, sectors/track 63, heads 255, hidden sectors 2048, dos < 4.0 BootSector (0x80), FAT (1Y bit by descriptor); NTFS, sectors/track 63, sectors 134213631, $MFT start cluster 786432, $MFTMirror start cluster 2, bytes/RecordSegment 2^(-1*246), clusters/index block 1, serial number 0ca8e46528e4636eb; contains bootstrap BOOTMGR",
+  "magic_type": "DOS/MBR boot sector, code offset 0x52+2, OEM-ID \"NTFS    \", sectors/cluster 8, Media descriptor 0xf8, sectors/track 63, heads 255, hidden sectors 2048, dos < 4.0 BootSector (0x80), FAT (1Y bit by descriptor); NTFS, sectors/track 63, sectors 134213631, $MFT start cluster 786432, $MFTMirror start cluster 2, bytes/RecordSegment 2^(-1*246), clusters/index block 1, serial number 04ef80896f8087e89; contains bootstrap BOOTMGR",
   "mode": "-rwxrwxrwx",
-  "sha1": "f7f80529f098103741f5b6aa868f1676bee948b3"
+  "sha1": "d5b3389f2eab22be0cd2e23e537965b273a7709d"
 }

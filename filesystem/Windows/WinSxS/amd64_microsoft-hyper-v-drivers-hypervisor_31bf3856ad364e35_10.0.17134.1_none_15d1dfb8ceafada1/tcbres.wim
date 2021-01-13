@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-ms-wim",
-  "inode_type": "REG",
-  "magic_type": "Windows imaging (WIM) image v1.13, bootable no. 1, LZX compressed, metadata only, reparse point fixup",
-  "mode": "-rwxrwxrwx",
-  "sha1": "a4567fd7dfba3d47808c743b78391d5a1ce1e5f0"
-}

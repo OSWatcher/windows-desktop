@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-ms-sdi",
-  "inode_type": "REG",
-  "magic_type": "System Deployment Image, PageAlignment 2, checksum 0x39, type PART (0x7) at 0x2000 3161088 bytes DOS/MBR boot sector, code offset 0x52+2, OEM-ID \"NTFS    \", Media descriptor 0xf8, sectors/track 2, heads 16, hidden sectors 2, dos < 4.0 BootSector (0x80), FAT (1Y bit by descriptor); NTFS, sectors/track 2, sectors 6173, $MFT start cluster 2058, $MFTMirror start cluster 5162, clusters/RecordSegment 2, clusters/index block 8, serial number 050d60a27d60a0dc2; contains bootstrap NTLDR, type WIM at 0x306000",
-  "mode": "-rwxrwxrwx",
-  "sha1": "bb025cedca07887916c4b7e5fa7a641ed3e30c14"
-}

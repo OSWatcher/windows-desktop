@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-dosexec",
+  "MIME": "application/x-dbt",
   "inode_type": "REG",
-  "magic_type": "DOS executable (COM)",
+  "magic_type": "dBase III DBT, version number 0, next free block index 2683978318",
   "mode": "-rwxrwxrwx",
-  "sha1": "99fa02d6ce8123f089f6dcacc230178e4c6d2ecb"
+  "sha1": "0f44df37c4e1467a030a57af73aba1f55344d78f"
 }

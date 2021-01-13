@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "TIM image, Pixel at (59981,26209) Size=31569x40901, (1,0)",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "149a05f83881eaad68acd019420680adad1e054f"
+  "sha1": "f2885d9a5f664c46b3121d7e407dc04afd80ec4b"
 }

@@ -1,7 +1,7 @@
 {
-  "MIME": "inode/x-empty",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "empty",
+  "magic_type": "MS Windows registry file, NT/2000 or above",
   "mode": "-rwxrwxrwx",
-  "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  "sha1": "6d74e822e0a87ce623e2354e7caeb93b25977556"
 }

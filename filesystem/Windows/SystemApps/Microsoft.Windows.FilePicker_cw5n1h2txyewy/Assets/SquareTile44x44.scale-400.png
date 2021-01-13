@@ -1,7 +1,7 @@
 {
   "MIME": "image/png",
   "inode_type": "REG",
-  "magic_type": "PNG image data, 176 x 176, 8-bit/color RGBA, non-interlaced",
+  "magic_type": "PNG image data, 176 x 176, 4-bit colormap, non-interlaced",
   "mode": "-rwxrwxrwx",
-  "sha1": "8a2e438f4d36dafac2decbac47deba8f96f1c015"
+  "sha1": "d8814ae71772ac9cd6c6ac71761c5264489f634b"
 }
