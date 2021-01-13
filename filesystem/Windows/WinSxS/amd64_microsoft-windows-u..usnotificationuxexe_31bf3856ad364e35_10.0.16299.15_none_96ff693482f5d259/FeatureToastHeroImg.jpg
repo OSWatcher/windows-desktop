@@ -1,0 +1,7 @@
+{
+  "MIME": "image/jpeg",
+  "inode_type": "REG",
+  "magic_type": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=16, height=5792, bps=0, compression=none, PhotometricIntepretation=RGB, manufacturer=Canon, model=Canon EOS 5DS R, orientation=upper-left, width=8688], baseline, precision 8, 360x180, components 3",
+  "mode": "-rwxrwxrwx",
+  "sha1": "0c408cc67fb43c24c7710d119759a923607e754a"
+}

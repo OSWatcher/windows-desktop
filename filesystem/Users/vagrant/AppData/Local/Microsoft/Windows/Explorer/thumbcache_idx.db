@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "MacBinary, ID 0x18, comment length 2, Mon Feb  6 07:28:16 2040 INVALID date, modified Mon Feb  6 07:28:16 2040, creator '    ', type '    ', 65536 bytes \" \\020IMMM \" ",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "48cc0de803f85e1489ea743aab0a101966ddac58"
+  "sha1": "c2a98a3f13efe88567017d638f422a2eca334271"
 }

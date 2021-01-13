@@ -1,7 +1,0 @@
-{
-  "MIME": "application/vnd.ms-cab-compressed",
-  "inode_type": "REG",
-  "magic_type": "Microsoft Cabinet archive data, many, 3677721 bytes, 31 files, at 0x2c +A \"I386\\LOCALE.GPD\" +A \"I386\\MSXPSINC.GPD\", ID 4321, number 1, 301 datablocks, 0x1 compression",
-  "mode": "-rwxrwxrwx",
-  "sha1": "9649ad7d75b435892ab53b0166e6819f2d584206"
-}

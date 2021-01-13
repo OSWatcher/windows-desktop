@@ -1,0 +1,7 @@
+{
+  "MIME": "application/x-msi",
+  "inode_type": "REG",
+  "magic_type": "Composite Document File V2 Document, Little Endian, Os: Windows, Version 5.0, MSI Installer, Code page: 1252, Title: Installation Database, Subject: Installer Database Table Schema, Author: Microsoft Corporation, Keywords: Installer,MSI,Database, Comments: Contact:  Your local administrator, Template: ;1033, Revision Number: {Put Package Code GUID Here}, Create Time/Date: Wed Apr 14 08:00:00 1999, Number of Pages: 102, Number of Words: 2, Name of Creating Application: Windows Installer, Security: 1",
+  "mode": "-rwxrwxrwx",
+  "sha1": "f5f9c1ff9fd994e2a836d9cbd5df580c66d9fbcc"
+}

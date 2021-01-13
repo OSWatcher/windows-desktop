@@ -1,6 +1,6 @@
 {
   "dynamic_base": true,
-  "force_integrity": false,
+  "force_integrity": true,
   "guard_cf": true,
   "high_entropy_va": false,
   "manifest_isolation": true,

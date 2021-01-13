@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
+  "MIME": "application/csv",
   "inode_type": "REG",
-  "magic_type": "ASCII text, with CRLF line terminators",
+  "magic_type": "CSV text",
   "mode": "-rwxrwxrwx",
-  "sha1": "95dff26b82e37ea9de2460bb9bd2a4374194974b"
+  "sha1": "67f6f5b4cbe8d24c2900621a74bfea65b823579e"
 }

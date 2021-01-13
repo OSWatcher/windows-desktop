@@ -1,7 +1,0 @@
-{
-  "MIME": "application/octet-stream",
-  "inode_type": "REG",
-  "magic_type": "DIY-Thermocam raw data (Lepton 2.x), scale 17210-7422, spot sensor temperature -0.000000, unit celsius, color scheme 0, calibration: offset 0.000000, slope 274768.281250",
-  "mode": "-rwxrwxrwx",
-  "sha1": "46d93ecdce18b0e635c103c405a94b59efc04a94"
-}

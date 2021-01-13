@@ -1,7 +1,7 @@
 {
   "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "Little-endian UTF-16 Unicode text, with CRLF line terminators",
+  "magic_type": "Little-endian UTF-16 Unicode text, with very long lines, with CRLF line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "29cb081de1b87fec99392e057164fe9909aa91b5"
+  "sha1": "dee2bd9ff91ead01072ab4b66476fab0cb3b1214"
 }

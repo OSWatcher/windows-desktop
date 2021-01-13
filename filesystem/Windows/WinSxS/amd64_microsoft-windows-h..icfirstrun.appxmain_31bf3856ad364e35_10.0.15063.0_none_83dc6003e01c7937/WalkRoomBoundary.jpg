@@ -1,7 +1,0 @@
-{
-  "MIME": "image/jpeg",
-  "inode_type": "REG",
-  "magic_type": "JPEG image data, Exif standard: [TIFF image data, big-endian, direntries=12, height=1080, bps=0, PhotometricIntepretation=RGB, orientation=upper-left, width=1920], baseline, precision 8, 1920x1080, components 3",
-  "mode": "-rwxrwxrwx",
-  "sha1": "e5cc140679925df46fd098ba7d19e1da6a03edd3"
-}

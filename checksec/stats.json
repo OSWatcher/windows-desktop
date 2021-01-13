@@ -15,13 +15,13 @@
   "ELF_count": 0,
   "PE": {
     "dynamic_base": 99.3,
-    "force_integrity": 0.9,
-    "guard_cf": 52.9,
-    "high_entropy_va": 43.3,
+    "force_integrity": 1.1,
+    "guard_cf": 52.0,
+    "high_entropy_va": 42.2,
     "manifest_isolation": 100.0,
     "nx_compat": 99.0,
-    "seh": 57.2
+    "seh": 56.1
   },
-  "PE_count": 30211,
-  "total": 30211
+  "PE_count": 31227,
+  "total": 31227
 }
