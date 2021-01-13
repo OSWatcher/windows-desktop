@@ -1,0 +1,27 @@
+{
+  "ELF": {
+    "canary": 0,
+    "fortified": 0,
+    "fortify_score": 0,
+    "fortify_source": 0,
+    "fortifyable": 0,
+    "nx": 0,
+    "pie": 0,
+    "relro": 0,
+    "rpath": 0,
+    "runpath": 0,
+    "symbols": 0
+  },
+  "ELF_count": 0,
+  "PE": {
+    "dynamic_base": 99.2,
+    "force_integrity": 0.9,
+    "guard_cf": 50.0,
+    "high_entropy_va": 41.5,
+    "manifest_isolation": 100.0,
+    "nx_compat": 99.0,
+    "seh": 55.8
+  },
+  "PE_count": 28151,
+  "total": 28151
+}
