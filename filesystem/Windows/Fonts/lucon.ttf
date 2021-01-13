@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 19 tables, 1st \"DSIG\", 39 names, Macintosh, Copyright \\251 1993 Bigelow & Holmes Inc. All rights reserved.Lucida Console Regular; B&H alpha2",
+  "magic_type": "TrueType Font data, digitally signed, 19 tables, 1st \"DSIG\", 41 names, Macintosh, Copyright \\251 1993 Bigelow & Holmes Inc. All rights reserved.Lucida ConsoleRegularLucida Consol",
   "mode": "-rwxrwxrwx",
-  "sha1": "0a9f330909c2419ea697352839bfbe480bd7b743"
+  "sha1": "c1876d3d3e43b683b529a09cb88c38c17b18cd39"
 }

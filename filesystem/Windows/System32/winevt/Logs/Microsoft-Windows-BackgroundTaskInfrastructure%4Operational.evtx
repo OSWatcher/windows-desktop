@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "MS Windows Vista Event Log, 1 chunks (no. 0 in use), next record no. 10",
+  "magic_type": "MS Windows Vista Event Log, 1 chunks (no. 0 in use), next record no. 4",
   "mode": "-rwxrwxrwx",
-  "sha1": "9c873b81114b04d23576b3bcd184a0b9b814d239"
+  "sha1": "f2581c2eda9f5f4aee01d33a5658fdcb7d0ff7c0"
 }

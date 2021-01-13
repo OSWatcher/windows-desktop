@@ -1,7 +1,0 @@
-{
-  "MIME": "application/vnd.ms-cab-compressed",
-  "inode_type": "REG",
-  "magic_type": "Microsoft Cabinet archive data, many, 103529 bytes, 7 files, at 0x44 +A \"PackageInfo.xml\" +A \"sign.cat\", flags 0x4, number 1, extra bytes 20 in head, 18 datablocks, 0x1203 compression",
-  "mode": "-rwxrwxrwx",
-  "sha1": "aa02c48627782715d6a0d545995e65cf77eebeff"
-}

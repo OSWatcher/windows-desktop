@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "AmigaOS bitmap font",
   "mode": "-rwxrwxrwx",
-  "sha1": "576b0653aa860dc7fb9ce27c3dd40586a2a7f212"
+  "sha1": "d856c9dfd25dee8b7c567fbfa005d95be5083f26"
 }

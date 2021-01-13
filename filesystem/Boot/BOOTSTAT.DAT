@@ -1,7 +1,7 @@
 {
-  "MIME": "application/octet-stream",
+  "MIME": "application/x-ms-dat",
   "inode_type": "REG",
-  "magic_type": "Apple DiskCopy 4.2 image , 402654976 bytes, 0x700 tag size, GCR CLV ssdd (400k), 0x1f format",
+  "magic_type": "Windows boot log, version 4, header size 0x14, 0x184 valid bytes; entry size 0x40, 0x124cd seconds, Init 2021-1-13 20:48:50; entry size 0x78, 0x124cd seconds, launched \\Windows\\system32\\winload.exe",
   "mode": "-rwxrwxrwx",
-  "sha1": "aa3258be84409f8b4d8f5bab49d0314275576438"
+  "sha1": "26742362c1df7e9f557646aaf9451c82d796275a"
 }

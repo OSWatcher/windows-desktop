@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 18 tables, 1st \"DSIG\", name offset 0x102be54",
+  "magic_type": "TrueType Font data, digitally signed, 18 tables, 1st \"DSIG\", name offset 0x102c614",
   "mode": "-rwxrwxrwx",
-  "sha1": "c5a7891b101cf542f9f1e7c863b03cc6ed0b0d51"
+  "sha1": "a6b129f16f3ea579f9e1657334cb32da05238cdc"
 }
