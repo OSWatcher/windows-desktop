@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "a.out VAX demand paged (first page unmapped) pure executable",
   "mode": "-rwxrwxrwx",
-  "sha1": "af5bd36692cbb0ec91ba8273071ae9e48651a974"
+  "sha1": "35b8d15c104904113075753e965f1431278a2935"
 }

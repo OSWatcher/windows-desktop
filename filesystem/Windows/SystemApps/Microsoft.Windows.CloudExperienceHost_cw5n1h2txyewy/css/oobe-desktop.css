@@ -1,7 +1,7 @@
 {
-  "MIME": "text/x-asm",
+  "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "assembler source, ASCII text, with very long lines, with CRLF line terminators",
+  "magic_type": "ASCII text, with very long lines, with no line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "2cf6a41bff2a6fb60b6ceed1d163ed572b0de2c7"
+  "sha1": "56c05b14700b1151eba96069cdf5e467093533e5"
 }

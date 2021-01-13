@@ -1,7 +1,7 @@
 {
   "MIME": "text/x-c",
   "inode_type": "REG",
-  "magic_type": "C source, Little-endian UTF-16 Unicode text, with very long lines, with CRLF line terminators",
+  "magic_type": "C source, Little-endian UTF-16 Unicode text, with very long lines, with CRLF, CR line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "ddcd40de9be6605f7c5acbc07e6e5c6af83edd12"
+  "sha1": "ea6bb207e66758347a30bec2568c335913a37252"
 }

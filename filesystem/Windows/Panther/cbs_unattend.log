@@ -1,7 +1,7 @@
 {
-  "MIME": "application/csv",
+  "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "CSV text",
+  "magic_type": "UTF-8 Unicode (with BOM) text, with very long lines, with CRLF, LF line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "2a5086484f982cd3418281fbaa36c30dcc4a4725"
+  "sha1": "7c7cac84ed30835f8338bdcb354db18c059d6d31"
 }

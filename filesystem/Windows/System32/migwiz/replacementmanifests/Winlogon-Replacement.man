@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "XML document, UTF-8 Unicode (with BOM) text, with CRLF line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "065f1d045259075096994d9c511d62a639bcef7c"
+  "sha1": "36340b1aa06a9c2fd6aecfcb750f8429b8ac6068"
 }

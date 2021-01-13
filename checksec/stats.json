@@ -14,14 +14,14 @@
   },
   "ELF_count": 0,
   "PE": {
-    "dynamic_base": 99.2,
+    "dynamic_base": 99.3,
     "force_integrity": 0.9,
-    "guard_cf": 50.9,
-    "high_entropy_va": 42.3,
+    "guard_cf": 51.2,
+    "high_entropy_va": 42.1,
     "manifest_isolation": 100.0,
     "nx_compat": 99.0,
-    "seh": 57.1
+    "seh": 56.2
   },
-  "PE_count": 28201,
-  "total": 28201
+  "PE_count": 29334,
+  "total": 29334
 }

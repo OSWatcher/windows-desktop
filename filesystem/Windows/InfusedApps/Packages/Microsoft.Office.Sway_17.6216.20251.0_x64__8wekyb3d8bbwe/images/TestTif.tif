@@ -1,7 +1,0 @@
-{
-  "MIME": "image/tiff",
-  "inode_type": "REG",
-  "magic_type": "TIFF image data, little-endian, direntries=24, height=80, bps=1700, compression=LZW, PhotometricIntepretation=RGB, orientation=upper-left, width=80",
-  "mode": "-rwxrwxrwx",
-  "sha1": "85178bafd8303e042790273d8fc0e9ac8439a24c"
-}

@@ -5,5 +5,5 @@
   "high_entropy_va": false,
   "manifest_isolation": true,
   "nx_compat": true,
-  "seh": true
+  "seh": false
 }

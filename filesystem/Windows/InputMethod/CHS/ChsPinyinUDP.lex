@@ -1,7 +1,7 @@
 {
-  "MIME": "application/csv",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "CSV text",
+  "magic_type": "Message Sequence Chart (chart)",
   "mode": "-rwxrwxrwx",
-  "sha1": "e43b85c88588e18aeb047455717746c1b72c7b9c"
+  "sha1": "45cd043f5d0ec160ed1d1662d9b6fbdd735db25b"
 }

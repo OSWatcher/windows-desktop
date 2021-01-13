@@ -1,0 +1,7 @@
+{
+  "MIME": "application/vnd.ms-cab-compressed",
+  "inode_type": "REG",
+  "magic_type": "Microsoft Cabinet archive data, many, 141248 bytes, 10 files, at 0x2c +A \"appsglobals.txt\" +A \"settingsglobals.txt\", ID 17090, number 1, 19 datablocks, 0x1503 compression",
+  "mode": "-rwxrwxrwx",
+  "sha1": "3a70afba6ac431d0af1e3be6269f241392093f09"
+}

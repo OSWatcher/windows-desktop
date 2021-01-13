@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 22 tables, 1st \"DSIG\", 45 names, Unicode, \\251 2015 Microsoft Corporation. All Rights Reserved.CalibriBoldMicrosoft: Calibri BoldCalibri B",
+  "magic_type": "TrueType Font data, digitally signed, 22 tables, 1st \"DSIG\", 45 names, Unicode, \\251 2016 Microsoft Corporation. All Rights Reserved.",
   "mode": "-rwxrwxrwx",
-  "sha1": "30208a19c4a474b164c5f25319b72a60dd23d678"
+  "sha1": "0d09f99c7028e9a6980cda2d98159a2f6d909630"
 }

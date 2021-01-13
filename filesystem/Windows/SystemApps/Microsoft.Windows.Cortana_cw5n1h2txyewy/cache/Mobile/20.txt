@@ -1,7 +1,7 @@
 {
   "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators",
+  "magic_type": "exported SGML document, UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "4a48d714e8a5a5ac9b9159135d53f262ef8e7ae3"
+  "sha1": "8c1666cb9a30c9502b208b2ece446d04fed351fd"
 }

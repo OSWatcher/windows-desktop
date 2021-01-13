@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, 10 tables, 1st \"OS/2\", 11 names, Macintosh, type 5 string, Version 1.35",
+  "magic_type": "TrueType Font data, digitally signed, 11 tables, 1st \"DSIG\", 10 names, Microsoft, language 0x409, \\251 2016 Microsoft Corporation. All Rights Reserved.Microsoft JhengHei BootRegularMicrosoft Jhe",
   "mode": "-rwxrwxrwx",
-  "sha1": "c758e5f53eaa4ba119e0bb67956d0002130dcda5"
+  "sha1": "4a0ee3c987b0e761e9649e7ae49242efbdf83244"
 }

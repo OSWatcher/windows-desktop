@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 20 tables, 1st \"DSIG\", 50 names, Unicode, \\251 2015 Microsoft Corporation. All Rights Reserved. Designed by Luc(as) de GrootCalibri LightI",
+  "magic_type": "TrueType Font data, digitally signed, 20 tables, 1st \"DSIG\", 50 names, Unicode, \\251 2016 Microsoft Corporation. All Rights Reserved.",
   "mode": "-rwxrwxrwx",
-  "sha1": "cad840596570ab9692fa511361a7a69a3c2c62be"
+  "sha1": "617fcaceee8185f23e2e55e26f251edc2cbfb719"
 }

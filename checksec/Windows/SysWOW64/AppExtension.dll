@@ -1,0 +1,9 @@
+{
+  "dynamic_base": true,
+  "force_integrity": false,
+  "guard_cf": true,
+  "high_entropy_va": false,
+  "manifest_isolation": true,
+  "nx_compat": true,
+  "seh": true
+}
