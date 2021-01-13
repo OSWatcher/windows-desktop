@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-dbt",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "dBase III DBT, version number 0, next free block index 4134755926",
+  "magic_type": "Dyalog APL version 225.140",
   "mode": "-rwxrwxrwx",
-  "sha1": "e460a6b65fb027dfb90b5cec0642ab382789cd2f"
+  "sha1": "fe1146703f65708302e60c45a6e383c66bb7cccb"
 }

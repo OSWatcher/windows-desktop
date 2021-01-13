@@ -1,7 +1,7 @@
 {
-  "MIME": "text/html",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "HTML document, ASCII text, with CRLF line terminators",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "fc9fd80c215e843b26f05852aeab8660898b3699"
+  "sha1": "2ccbd391acf586771dbe9b70385f106c27bb2d5e"
 }

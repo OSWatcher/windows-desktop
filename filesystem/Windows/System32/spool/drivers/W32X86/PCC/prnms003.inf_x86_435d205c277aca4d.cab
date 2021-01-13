@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "Microsoft Cabinet archive data, many, 1089591 bytes, 6 files, at 0x2c +A \"I386\\PrintConfig.dll\" +A \"I386\\unishare-pipelineconfig.xml\", ID 4321, number 1, 89 datablocks, 0x1 compression",
   "mode": "-rwxrwxrwx",
-  "sha1": "3884954bff5fde669c48d8c85723eba9b6553702"
+  "sha1": "f50c230614eb95e68e4b5f13a752c667c780b1ad"
 }

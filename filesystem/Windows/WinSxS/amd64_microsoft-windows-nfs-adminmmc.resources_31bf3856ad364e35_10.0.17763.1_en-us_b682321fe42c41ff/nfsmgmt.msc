@@ -1,7 +1,7 @@
 {
-  "MIME": "text/xml",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "XML 1.0 document, ASCII text, with CRLF line terminators",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "87992c0e7fc70a3c140e72e2f0f104d4b13090fb"
+  "sha1": "d32269872a0a42a31cb2cf8ce79fd29069548b1c"
 }
