@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 23 tables, 1st \"DSIG\", 60 names, Microsoft, language 0x403, type 2 string, NegretaEbrima Negretatu",
+  "magic_type": "TrueType Font data, digitally signed, 23 tables, 1st \"DSIG\", 12 names, Microsoft, language 0x409, \\251 2018 Microsoft Corporation. All Rights Reserved.EbrimaBoldMicrosoftCorporation: Ebrima Bold",
   "mode": "-rwxrwxrwx",
-  "sha1": "e73bcfdbce32cc0421dd758070e40e4e57fb8cd0"
+  "sha1": "24b68787173e3f40afcbd501cf5735180610b062"
 }

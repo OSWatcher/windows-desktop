@@ -1,7 +1,7 @@
 {
-  "MIME": "application/octet-stream",
+  "MIME": "inode/x-empty",
   "inode_type": "REG",
-  "magic_type": "SQLite Write-Ahead Log, version 3007000",
+  "magic_type": "empty",
   "mode": "-rwxrwxrwx",
-  "sha1": "ce520388c76d8be781b70402986c8719f54fcbd7"
+  "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 }

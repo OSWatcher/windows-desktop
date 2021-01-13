@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 20 tables, 1st \"DSIG\", 74 names, Macintosh, \\251 2015 Microsoft Corporation. All Rights Reserved.Myanmar TextBoldMyanmar Text BoldVersion 1.",
+  "magic_type": "TrueType Font data, digitally signed, 20 tables, 1st \"DSIG\", 24 names, Macintosh, \\251 2018 Microsoft Corporation. All Rights Reserved.Myanmar TextBoldMyanmar Text BoldVersion 1.",
   "mode": "-rwxrwxrwx",
-  "sha1": "4cd7c514a1727859f88148ff4b6f04986ca7ed3e"
+  "sha1": "a11e572ae82005c01cfba8fee2c90a869f47c575"
 }

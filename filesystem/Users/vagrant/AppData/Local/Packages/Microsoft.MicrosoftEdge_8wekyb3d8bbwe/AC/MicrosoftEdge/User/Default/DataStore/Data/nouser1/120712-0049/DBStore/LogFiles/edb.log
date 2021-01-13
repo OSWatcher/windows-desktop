@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "SysEx File - ELKA",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "9462a25b710daddfb0438ddf0ab78252ded120bd"
+  "sha1": "96f6274880e41ce8920ea6194752706179076862"
 }

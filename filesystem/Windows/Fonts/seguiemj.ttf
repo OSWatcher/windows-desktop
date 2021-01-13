@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 21 tables, 1st \"COLR\", name offset 0x197864",
+  "magic_type": "TrueType Font data, digitally signed, 22 tables, 1st \"COLR\", name offset 0x199900",
   "mode": "-rwxrwxrwx",
-  "sha1": "51ce338593e6c90b9ecbe916d4f33e75e8def99f"
+  "sha1": "0c44a5f21f5af63a007ed86d42a7466cfac54759"
 }

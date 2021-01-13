@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 19 tables, 1st \"DSIG\", 45 names, Unicode, \\251 2012 Microsoft Corporation. All Rights Reserved.ConstantiaRegularMicrosoft: Constantia: 200",
+  "magic_type": "TrueType Font data, digitally signed, 20 tables, 1st \"DSIG\", 45 names, Unicode, \\251 2012 Microsoft Corporation. All Rights Reserved.ConstantiaRegularMicrosoft: Constantia: 200",
   "mode": "-rwxrwxrwx",
-  "sha1": "579eaef324765c6763e90d6aedafae60e972e346"
+  "sha1": "fab18ace162e6f5986a8a6d3c403bc1bc1e7b894"
 }

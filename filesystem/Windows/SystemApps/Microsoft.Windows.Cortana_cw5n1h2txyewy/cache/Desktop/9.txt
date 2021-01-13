@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
+  "MIME": "image/png",
   "inode_type": "REG",
-  "magic_type": "UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators",
+  "magic_type": "PNG image data, 80 x 80, 8-bit/color RGBA, non-interlaced",
   "mode": "-rwxrwxrwx",
-  "sha1": "fbe2bda69b860df584dfd4e7b02c7d6a212a3269"
+  "sha1": "9b4acb54315b6b722abda786fd61d0bfd8195729"
 }

@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "78e6e13e443047d8ed44fbad100fdba4a6e426f5"
+  "sha1": "573c60dc7b0db8970052920f2664e8c5d7894740"
 }

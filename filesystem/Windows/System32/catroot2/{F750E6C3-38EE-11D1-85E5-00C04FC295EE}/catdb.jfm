@@ -1,7 +1,7 @@
 {
-  "MIME": "audio/x-mp4a-latm",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "MPEG-4 LOAS",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "d003b6f14c205ae8dd21f7dae90085fb9d2d6e0c"
+  "sha1": "96f5df872a272ee6ab2be621319ad51299349c1e"
 }

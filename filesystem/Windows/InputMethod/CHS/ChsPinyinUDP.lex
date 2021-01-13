@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "Message Sequence Chart (chart)",
   "mode": "-rwxrwxrwx",
-  "sha1": "37c135e51cc9fbfa60514f9b2cf84737d1c7313c"
+  "sha1": "12d7e20a499ac455923c5f5b8b338d4ed36d3813"
 }
