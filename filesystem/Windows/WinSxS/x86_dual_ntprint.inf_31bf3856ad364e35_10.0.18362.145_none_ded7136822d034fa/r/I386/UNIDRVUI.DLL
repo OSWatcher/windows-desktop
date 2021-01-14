@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-dosexec",
-  "inode_type": "REG",
-  "magic_type": "DOS executable (COM, 0x8C-variant)",
-  "mode": "-rwxrwxrwx",
-  "sha1": "41a3990f63f69f8202a1af1ef6ef71b9b67f402c"
-}

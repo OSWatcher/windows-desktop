@@ -1,0 +1,7 @@
+{
+  "MIME": "application/x-executable",
+  "inode_type": "REG",
+  "magic_type": "ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, BuildID[sha1]=b8109810a9d3f94a0f4d9ef5ec1acad1120e607f, stripped",
+  "mode": "-rwxrwxrwx",
+  "sha1": "45a8cbec93a2ecb7b99bd1032a10e0cea83812ca"
+}

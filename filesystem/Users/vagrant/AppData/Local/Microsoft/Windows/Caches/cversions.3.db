@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-tplink-bin",
   "inode_type": "REG",
-  "magic_type": "firmware 500 v0 (revision 0)    V2, 0 bytes or less, at 0x0 0 bytes , at 0x0 0 bytes ",
+  "magic_type": "firmware 700 v0 (revision 0)    V2, 0 bytes or less, at 0x0 0 bytes , at 0x0 0 bytes ",
   "mode": "-rwxrwxrwx",
-  "sha1": "234f281e5eded494861c0e36d5f2629062b9211d"
+  "sha1": "e4331a838534a1f17674cbb5f7adc13258f11021"
 }

@@ -1,0 +1,13 @@
+{
+  "canary": false,
+  "fortified": 0,
+  "fortify_score": 0,
+  "fortify_source": false,
+  "fortifyable": 0,
+  "nx": false,
+  "pie": "No",
+  "relro": "No",
+  "rpath": false,
+  "runpath": false,
+  "symbols": false
+}
