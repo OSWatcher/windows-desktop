@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "big endian ispell hash file (?), and 20545 string characters",
   "mode": "-rwxrwxrwx",
-  "sha1": "07bf0e4531a865c9d919a3fdccc5079d34ce7416"
+  "sha1": "7ba1e8ad756237a65f4f9f6d1c02dd0dfabc9b41"
 }

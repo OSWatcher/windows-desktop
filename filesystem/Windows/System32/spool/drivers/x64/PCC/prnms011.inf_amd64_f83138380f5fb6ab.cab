@@ -1,0 +1,7 @@
+{
+  "MIME": "application/vnd.ms-cab-compressed",
+  "inode_type": "REG",
+  "magic_type": "Microsoft Cabinet archive data, many, 9159 bytes, 6 files, at 0x2c +A \"Amd64\\MSAppMon-manifest.ini\" +A \"Amd64\\MSAppMon-pipelineconfig.xml\", ID 4321, number 1, 1 datablock, 0x1 compression",
+  "mode": "-rwxrwxrwx",
+  "sha1": "3c728f06c67ab98818bd445d3770ec73e2f32be0"
+}

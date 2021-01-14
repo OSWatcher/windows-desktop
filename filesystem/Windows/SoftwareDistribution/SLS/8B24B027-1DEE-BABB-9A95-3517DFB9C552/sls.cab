@@ -1,7 +1,7 @@
 {
   "MIME": "application/vnd.ms-cab-compressed",
   "inode_type": "REG",
-  "magic_type": "Microsoft Cabinet archive data, single, 14318 bytes, 1 file, at 0x44 +Utf \"environment.cab\", flags 0x4, ID 24904, number 1, extra bytes 20 in head, 1 datablock, 0x1 compression",
+  "magic_type": "Microsoft Cabinet archive data, single, 14415 bytes, 1 file, at 0x44 +Utf \"environment.cab\", flags 0x4, ID 35133, number 1, extra bytes 20 in head, 1 datablock, 0x1 compression",
   "mode": "-rwxrwxrwx",
-  "sha1": "740cbb1058236f742fac0fbe084e452838a46115"
+  "sha1": "890e61497e924ea72664914eb9e4222e2b91e12d"
 }

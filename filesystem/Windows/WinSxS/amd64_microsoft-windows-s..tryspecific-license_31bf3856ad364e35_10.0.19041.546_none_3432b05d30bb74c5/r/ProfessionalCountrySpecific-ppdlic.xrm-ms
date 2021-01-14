@@ -1,0 +1,7 @@
+{
+  "MIME": "audio/vnd.dolby.dd-raw",
+  "inode_type": "REG",
+  "magic_type": "ATSC A/52 aka AC-3 aka Dolby Digital stream, 44.1 kHz,, music and effects (ME) 1 front/0 rear, LFE on,, 128 kbit/s",
+  "mode": "-rwxrwxrwx",
+  "sha1": "3decc6f2674e8a76e96348dd99db5db137b34847"
+}

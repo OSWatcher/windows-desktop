@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "PGP Secret Sub-key -",
   "mode": "-rwxrwxrwx",
-  "sha1": "1aef3e8795da30f58160d2c188151f78f64d3e93"
+  "sha1": "50d83e91ea3e29dc56a81eaee15f09443e59d7c7"
 }

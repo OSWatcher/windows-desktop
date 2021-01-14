@@ -1,7 +1,7 @@
 {
-  "MIME": "application/octet-stream",
+  "MIME": "application/x-dbt",
   "inode_type": "REG",
-  "magic_type": "PGP symmetric key encrypted data - salted & iterated -",
+  "magic_type": "dBase III DBT, version number 0, next free block index 3004502109",
   "mode": "-rwxrwxrwx",
-  "sha1": "959022a395421db871bcc192755168bf346b13dd"
+  "sha1": "36b7124b74aecaba27260bbec912c899715f2227"
 }
