@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-dbt",
   "inode_type": "REG",
-  "magic_type": "dBase III DBT, version number 0, next free block index 131072, 1st item \"\\374\\036\\273\\002\"",
+  "magic_type": "dBase III DBT, version number 0, next free block index 131072, 1st item \"\\276\\325\\270\\002\"",
   "mode": "-rwxrwxrwx",
-  "sha1": "5171b22d74e2dc0ce2017ef44514ccfcb8de3c04"
+  "sha1": "9bae1667dca3508dda12d6b79343809ddbee0d8d"
 }

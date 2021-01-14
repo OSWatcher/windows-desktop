@@ -1,7 +1,7 @@
 {
-  "MIME": "application/octet-stream",
+  "MIME": "application/x-dbt",
   "inode_type": "REG",
-  "magic_type": "PGP Secret Sub-key -",
+  "magic_type": "dBase III DBT, version number 0, next free block index 423828, 1st item \"ateTime\"",
   "mode": "-rwxrwxrwx",
-  "sha1": "005b4899ba3225231b32c44125c68930986241ce"
+  "sha1": "7e4689b793f6b6ec23877820f5aef78e42e8f38b"
 }
