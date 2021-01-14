@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-ms-dat",
   "inode_type": "REG",
-  "magic_type": "Windows boot log, version 4, header size 0x14, 0x294 valid bytes; entry size 0x40, 0x1b8d seconds, GUID 0x2c86ea9ddd5c704eacc1f32b344d4795, Init 2021-1-13 23:48:6; entry size 0x88, 0x1b8d seconds, GUID 0x2c86ea9ddd5c704eacc1f32b344d4795, severity 0x3, event 0x50",
+  "magic_type": "Windows boot log, version 4, header size 0x14, 0x294 valid bytes; entry size 0x40, 0x444 seconds, GUID 0x2c86ea9ddd5c704eacc1f32b344d4795, Init 2021-1-14 0:18:12; entry size 0x88, 0x444 seconds, GUID 0x2c86ea9ddd5c704eacc1f32b344d4795, severity 0x3, event 0x50",
   "mode": "-rwxrwxrwx",
-  "sha1": "e493c58c37b45d02bb2d67fdbf07ad5310164bca"
+  "sha1": "bd569c6c2c9adf0c2e1af9f8a746514b68582a49"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "CLIPPER COFF executable C1 R1 not stripped -Ctsw",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "0d00e302322469bf119f2ef778680be65d440d40"
+  "sha1": "6fa12051a1139ef2096c35efcb7ad898efcb7354"
 }
