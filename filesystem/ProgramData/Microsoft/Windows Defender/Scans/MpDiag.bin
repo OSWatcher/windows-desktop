@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Hitachi SH big-endian COFF executable, no line number info, stripped, 256 sections, symbol offset=0x93ad5118, 1189795329 symbols, optional header size 43617",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "24e9b2c11960606963b61b6e9ee1c43a18dbe4fc"
+  "sha1": "7dada6fc679ad013ca84059f7a93ffc59bd9bc85"
 }

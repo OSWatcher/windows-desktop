@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 23 tables, 1st \"DSIG\", 12 names, Microsoft, language 0x409, \\251 2018 Microsoft Corporation. All Rights Reserved.EbrimaBoldMicrosoftCorporation: Ebrima Bold",
+  "magic_type": "TrueType Font data, digitally signed, 23 tables, 1st \"DSIG\", 72 names, Unicode, \\251 2018 Microsoft Corporation. All Rights Reserved.EbrimaBoldMicrosoftCorporation: Ebrima Bold",
   "mode": "-rwxrwxrwx",
-  "sha1": "24b68787173e3f40afcbd501cf5735180610b062"
+  "sha1": "3d6c3fd552fc7805be4564f157fb04565757230c"
 }

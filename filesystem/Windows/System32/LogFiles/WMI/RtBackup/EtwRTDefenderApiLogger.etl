@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Apple DiskCopy 4.2 image lFs, 1211695104 bytes, 0x48 encoding, 0x39 format",
+  "magic_type": "Apple DiskCopy 4.2 image lFs, 3894411264 bytes, 0xe8 encoding, 0x20 format",
   "mode": "-rwxrwxrwx",
-  "sha1": "ba3fa7960dfe1fb7e14eca43cfa082b373f673af"
+  "sha1": "93e40770925e56d0c82539047a95f0253b413082"
 }

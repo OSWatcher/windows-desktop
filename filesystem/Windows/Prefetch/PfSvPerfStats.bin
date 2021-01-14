@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-dbt",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "dBase III DBT, version number 0, next free block index 4, 1st item \"\\355f\"",
+  "magic_type": "Hitachi SH big-endian COFF object file, not stripped, 0 section, symbol offset=0x2000000",
   "mode": "-rwxrwxrwx",
-  "sha1": "9231d881a2e357ba4bf13909fb526859b15b267f"
+  "sha1": "7dea3265e885a9d8541265e3ceb4ac9c81529e4e"
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 11 tables, 1st \"DSIG\", 10 names, Microsoft, language 0x409, \\251 2016 Microsoft Corporation. All Rights Reserved.Malgun Gothic BootRegularMalgun Gothic Boot",
+  "magic_type": "TrueType Font data, digitally signed, 11 tables, 1st \"DSIG\", 10 names, Microsoft, language 0x409, \\251 2018 Microsoft Corporation. All Rights Reserved.Malgun Gothic BootRegularMalgun Gothic Boot",
   "mode": "-rwxrwxrwx",
-  "sha1": "a3676cb06f76f61fa54f192538340dd2f402c452"
+  "sha1": "cdffeffd3fc12e5c036c879ab9421ec0db4579b4"
 }

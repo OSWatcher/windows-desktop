@@ -1,7 +1,0 @@
-{
-  "MIME": "audio/x-wav",
-  "inode_type": "REG",
-  "magic_type": "RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 44100 Hz",
-  "mode": "-rwxrwxrwx",
-  "sha1": "4a848bd59c1f8ac4366d11f49fc32d3bb8d9ecce"
-}

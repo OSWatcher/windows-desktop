@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "VAX COFF pure executable, sections 0, created Sat Jun 20 11:03:57 1970, not stripped",
+  "magic_type": "CLIPPER COFF executable C1 R1 not stripped -Ctsw",
   "mode": "-rwxrwxrwx",
-  "sha1": "149a6385aa66bed9dc96307c949eb9535e18a110"
+  "sha1": "0d00e302322469bf119f2ef778680be65d440d40"
 }

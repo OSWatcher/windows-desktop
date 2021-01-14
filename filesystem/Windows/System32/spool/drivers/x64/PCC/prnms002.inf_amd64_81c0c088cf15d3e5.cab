@@ -1,0 +1,7 @@
+{
+  "MIME": "application/vnd.ms-cab-compressed",
+  "inode_type": "REG",
+  "magic_type": "Microsoft Cabinet archive data, many, 2360875 bytes, 9 files, at 0x2c +A \"Amd64\\FXSAPI.DLL\" +A \"Amd64\\FXSDRV.DLL\", ID 4321, number 1, 246 datablocks, 0x1 compression",
+  "mode": "-rwxrwxrwx",
+  "sha1": "7399ec752cbdf2f242e0800a334a7b29fcc99205"
+}

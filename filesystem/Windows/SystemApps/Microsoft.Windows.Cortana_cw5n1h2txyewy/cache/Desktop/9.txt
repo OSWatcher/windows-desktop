@@ -1,7 +1,7 @@
 {
-  "MIME": "image/png",
+  "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "PNG image data, 80 x 80, 8-bit/color RGBA, non-interlaced",
+  "magic_type": "exported SGML document, UTF-8 Unicode (with BOM) text, with very long lines, with no line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "9b4acb54315b6b722abda786fd61d0bfd8195729"
+  "sha1": "f928a592c0c2964b0f75f752a1dfbd214b01aac5"
 }
