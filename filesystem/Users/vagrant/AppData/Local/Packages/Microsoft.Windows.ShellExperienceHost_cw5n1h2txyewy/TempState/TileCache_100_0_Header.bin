@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "AmigaOS bitmap font",
+  "magic_type": "TIM image, Pixel at (1,0) Size=44x0",
   "mode": "-rwxrwxrwx",
-  "sha1": "132ab32cdd90d86b6117da9b82f7452a8c896f49"
+  "sha1": "235d255543c444246230a1235f4dc9164f70a8de"
 }

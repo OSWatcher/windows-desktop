@@ -1,7 +1,7 @@
 {
-  "MIME": "application/vnd.ms-cab-compressed",
-  "inode_type": "REG",
-  "magic_type": "Microsoft Cabinet archive data, Windows 2000/XP setup, 59134 bytes, 1 file, at 0x2c +A \"authroot.stl\", number 1, 5 datablocks, 0x1 compression",
-  "mode": "-rwxrwxrwx",
-  "sha1": "ad1459d390ec23ab1c3da73ff2fbec7fa3a7f443"
+  "MIME": "text/plain",
+  "inode_type": "FIFO",
+  "magic_type": "ASCII text, with no line terminators",
+  "mode": "prwxrwxrwx",
+  "sha1": "07c257b16606b468b4287bbfd069963fcb6c04a5"
 }

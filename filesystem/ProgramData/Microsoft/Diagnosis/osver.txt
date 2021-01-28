@@ -3,5 +3,5 @@
   "inode_type": "REG",
   "magic_type": "ASCII text, with no line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "8ed73af5696ad0d3e6238d0cb80e129844320994"
+  "sha1": "243b8a6928077cd5f1f5e4359ed95523047d048a"
 }

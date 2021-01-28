@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "MacBinary, ID 0x18, Thu Feb  9 08:17:20 2040 INVALID date, modified Mon Feb  6 07:28:16 2040, creator '    ', type '    ' \" \\020IMMM \"",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "89629a52608754a71b1b88cc526fa2bf93facd9a"
+  "sha1": "80ac9040667faa579c0cd8aed494cfc7667ba738"
 }

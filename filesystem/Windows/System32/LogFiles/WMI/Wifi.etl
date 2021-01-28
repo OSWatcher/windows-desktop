@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-dbt",
   "inode_type": "REG",
-  "magic_type": "dBase III DBT, version number 0, next free block index 81920, 1st item \"15063.0.amd64fre.rs2_release.170317-1834\"",
+  "magic_type": "dBase III DBT, version number 0, next free block index 81920, 1st item \"\\241n\\345\\001\"",
   "mode": "-rwxrwxrwx",
-  "sha1": "409f63b47b4d2f7dd0740c52fa8532a8208435c2"
+  "sha1": "dbabe93d996b0bae0e460334c293b37c3bcdad71"
 }

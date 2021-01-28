@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "MS Windows shortcut, Item id list present, Points to a file or directory, Has Description string, Has Relative path, Has command line arguments, Icon number=0, Archive, ctime=Sat Mar 18 19:59:50 2017, mtime=Sat Mar 18 19:59:50 2017, atime=Sat Mar 18 19:59:50 2017, length=935936, window=hide",
+  "magic_type": "MS Windows shortcut, Item id list present, Points to a file or directory, Has Description string, Has Relative path, Has command line arguments, Icon number=0, Archive, ctime=Fri Sep 29 12:43:09 2017, mtime=Fri Sep 29 12:43:09 2017, atime=Fri Sep 29 12:43:09 2017, length=939520, window=hide",
   "mode": "-rwxrwxrwx",
-  "sha1": "e438d43ef94d75e2efd1537701e12002ce466642"
+  "sha1": "dc5cc625ba89ba8c242c6ad03e92490d92e66ec2"
 }

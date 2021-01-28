@@ -1,7 +1,0 @@
-{
-  "MIME": "application/vnd.ms-cab-compressed",
-  "inode_type": "REG",
-  "magic_type": "Microsoft Cabinet archive data, Windows 2000/XP setup, 4795 bytes, 1 file, at 0x2c +A \"disallowedcert.stl\", number 1, 1 datablock, 0x1 compression",
-  "mode": "-rwxrwxrwx",
-  "sha1": "d6fdd8c136667712c6fb4b618f70ba682e95dfb2"
-}
