@@ -1,7 +1,7 @@
 {
-  "MIME": "text/x-c",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "C source, UTF-8 Unicode (with BOM) text, with CRLF line terminators",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "188f48f4a32434d24b43f260e1f89cc6d7797228"
+  "sha1": "5602310cd4c43a11464615bff0161e4d8d1e4367"
 }

@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Little-endian UTF-16 Unicode text, with very long lines, with CRLF line terminators",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "e9f14f00e4c27c36dd3d718405436ef45cd7c656"
+  "sha1": "8d1ee11b6d110e0030b81ad79cf8d9b100d83184"
 }
