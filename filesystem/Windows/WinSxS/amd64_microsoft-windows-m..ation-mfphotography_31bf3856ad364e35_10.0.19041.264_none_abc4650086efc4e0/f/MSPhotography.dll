@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "shared library",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "85eefd8a43c6d931f0a2a414961681b0f5035d91"
+  "sha1": "dd5b1507d3eb3a93e64b7641b3be76cbd5f794bd"
 }

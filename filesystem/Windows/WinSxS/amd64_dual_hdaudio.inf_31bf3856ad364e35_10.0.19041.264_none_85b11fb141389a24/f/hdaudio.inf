@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Dyalog APL version 127.201",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "55740faa8cd80f9b21337927f82c99c042fce876"
+  "sha1": "00f6c2199a9ce6d41ac2f6d168813bde66269266"
 }
