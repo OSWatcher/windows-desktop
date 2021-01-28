@@ -1,7 +1,7 @@
 {
   "MIME": "image/x-ms-bmp",
   "inode_type": "REG",
-  "magic_type": "PC bitmap, Windows 98/2000 and newer format, 32 x 32 x 32",
+  "magic_type": "PC bitmap, Windows 98/2000 and newer format, 96 x 96 x 32",
   "mode": "-rwxrwxrwx",
-  "sha1": "a081a6b930845f3ed6fd6b87719e790e575cc15b"
+  "sha1": "b52570ebb2a3c3aa8cc3ffc6ad0955078abd5235"
 }
