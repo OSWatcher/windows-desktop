@@ -1,7 +1,0 @@
-{
-  "MIME": "application/vnd.ms-cab-compressed",
-  "inode_type": "REG",
-  "magic_type": "Microsoft Cabinet archive data, many, 1291846 bytes, 6 files, at 0x2c +A \"Amd64\\PrintConfig.dll\" +A \"Amd64\\unishare-pipelineconfig.xml\", ID 4321, number 1, 109 datablocks, 0x1 compression",
-  "mode": "-rwxrwxrwx",
-  "sha1": "678c6c6879b596fee194589c0246bfdf3d48cc07"
-}

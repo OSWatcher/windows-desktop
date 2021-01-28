@@ -1,7 +1,7 @@
 {
-  "MIME": "font/sfnt",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, 15 tables, 1st \"OS/2\", 37 names, Microsoft, language 0x403, type 2 string, Normaloby  ",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "9df4df9b315852f603d76bee7a1a85b1faabd0a4"
+  "sha1": "b122fadbb592181db113c2fb81da051506ad3081"
 }

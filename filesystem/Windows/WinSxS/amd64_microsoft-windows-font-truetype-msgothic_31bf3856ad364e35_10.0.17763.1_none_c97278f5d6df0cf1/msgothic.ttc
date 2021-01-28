@@ -1,7 +1,7 @@
 {
-  "MIME": "font/ttf",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "TrueType font collection data, 2.0, 3 fonts, digitally signed, at 0x24 TrueType Font data, 23 tables, 1st \"BASE\"",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "7ad28b6c6a50cdda433c4bcc1a6f22493ba822fc"
+  "sha1": "d566b151cb3f6889b092978cb944e38a195d2b3d"
 }

@@ -1,7 +1,7 @@
 {
-  "MIME": "font/sfnt",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, 15 tables, 1st \"OS/2\", 49 names, Macintosh, \\251 2017 Microsoft Corporation. All Rights Reserved.",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "724d80016f67ccee31485a70436f185274a6bb01"
+  "sha1": "b122fadbb592181db113c2fb81da051506ad3081"
 }

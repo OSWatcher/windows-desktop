@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "exported SGML document, UTF-8 Unicode (with BOM) text, with CRLF line terminators",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "858f7396681163e073343c7675f1d54ca6519296"
+  "sha1": "ca61741012fd202bf2de29a47dc3bd563d83197f"
 }

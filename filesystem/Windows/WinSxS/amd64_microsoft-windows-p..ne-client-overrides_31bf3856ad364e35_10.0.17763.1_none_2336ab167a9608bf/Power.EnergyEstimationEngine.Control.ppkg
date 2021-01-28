@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-ms-wim",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Windows imaging (WIM) image v1.13, XPRESS compressed, reparse point fixup",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "4c34217b2bda02c1d03b91bc57128ac0e21e951a"
+  "sha1": "3abf3ae3e92c0f9969593d9d2dd0fe99d522adee"
 }

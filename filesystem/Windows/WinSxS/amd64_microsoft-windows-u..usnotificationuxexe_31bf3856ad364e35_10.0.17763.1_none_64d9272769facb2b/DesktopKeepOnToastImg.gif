@@ -1,7 +1,7 @@
 {
-  "MIME": "image/gif",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "GIF image data, version 89a, 364 x 180",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "4aaa8591b58e6976d5242a3737f2ee4b040f0a1f"
+  "sha1": "c822f5c9db4c617330f8584c5d40177f7eba66a5"
 }

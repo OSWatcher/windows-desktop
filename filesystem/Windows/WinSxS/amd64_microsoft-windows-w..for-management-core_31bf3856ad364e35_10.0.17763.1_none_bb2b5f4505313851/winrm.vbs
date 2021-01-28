@@ -1,7 +1,7 @@
 {
-  "MIME": "text/plain",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Non-ISO extended-ASCII text, with CRLF line terminators",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "3fa2d2963cbf47ffd5f7f5a9b4576f34ed42e552"
+  "sha1": "c822f5c9db4c617330f8584c5d40177f7eba66a5"
 }

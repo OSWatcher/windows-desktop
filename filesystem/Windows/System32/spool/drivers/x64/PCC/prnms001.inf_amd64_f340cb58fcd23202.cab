@@ -1,7 +1,7 @@
 {
   "MIME": "application/vnd.ms-cab-compressed",
   "inode_type": "REG",
-  "magic_type": "Microsoft Cabinet archive data, many, 12463 bytes, 7 files, at 0x2c +A \"MXDW-manifest.ini\" +A \"MXDW-pipelineconfig.xml\", ID 4321, number 1, 3 datablocks, 0x1 compression",
+  "magic_type": "Microsoft Cabinet archive data, many, 12464 bytes, 7 files, at 0x2c +A \"MXDW-manifest.ini\" +A \"MXDW-pipelineconfig.xml\", ID 4321, number 1, 3 datablocks, 0x1 compression",
   "mode": "-rwxrwxrwx",
-  "sha1": "895b7738cb82e964c1ecc5141e76c2e90825d2f6"
+  "sha1": "2bf3769d0cb000aca9fd7fea8162a6180e4d2f14"
 }
