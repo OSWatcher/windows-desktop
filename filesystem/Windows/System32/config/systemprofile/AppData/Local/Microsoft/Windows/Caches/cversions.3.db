@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-tplink-bin",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "firmware 100 v0 (revision 0)    V2, 0 bytes or less, at 0x0 0 bytes , at 0x0 0 bytes ",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "34a4aa16b69fdd8ca9facf4839f288d5d2f911d0"
+  "sha1": "a5222849fda053f31ed5b26d90b09bc5ef98d2ad"
 }

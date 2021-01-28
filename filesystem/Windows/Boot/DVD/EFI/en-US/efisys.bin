@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-ima",
   "inode_type": "REG",
-  "magic_type": "DOS/MBR boot sector, code offset 0x3c+2, OEM-ID \"MSDOS5.0\", root entries 224, sectors 2880 (volumes <=32 MB), sectors/FAT 9, sectors/track 18, serial number 0x15489bc, label: \"EFISECTOR  \", FAT (12 bit), followed by FAT",
+  "magic_type": "DOS/MBR boot sector, code offset 0x3c+2, OEM-ID \"MSDOS5.0\", root entries 224, sectors 2880 (volumes <=32 MB), sectors/FAT 9, sectors/track 18, serial number 0xef56c0, label: \"EFISECTOR  \", FAT (12 bit), followed by FAT",
   "mode": "-rwxrwxrwx",
-  "sha1": "fc1fca75da9935d02788189d0877eea6689203b6"
+  "sha1": "868f0e55d31fce0d017e7b1b596863acefc39a49"
 }

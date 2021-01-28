@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "SysEx File - Waveframe",
   "mode": "-rwxrwxrwx",
-  "sha1": "eff1924c31c619eee2d31eea748f006f5f8ccc3a"
+  "sha1": "cc260f710bc63feca1ab0dae2025448e00ec2d30"
 }

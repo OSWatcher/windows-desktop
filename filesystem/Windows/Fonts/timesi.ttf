@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 24 tables, 1st \"DSIG\", 83 names, Unicode, \\251 2017 The Monotype Corporation. All Rights Reserved. Times New RomanItalicMonotype:Times New",
+  "magic_type": "TrueType Font data, digitally signed, 24 tables, 1st \"DSIG\", 83 names, Unicode, \\251 2017 The Monotype Corporation. All Rights Reserved. ",
   "mode": "-rwxrwxrwx",
-  "sha1": "ab96bd04b7e13a0cf9dbac9c3ac9527f8cc130a1"
+  "sha1": "d34f572f1e8e2573c91f62bc4ec65db5b7dfacaa"
 }
