@@ -1,7 +1,7 @@
 {
-  "MIME": "audio/midi",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Standard MIDI data (format 1) using 12 tracks at 1/384",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "7631bfe5e24f193869604ead2529fe16729cbf16"
+  "sha1": "276c44108c8dd3de3febce329165ee4a98fe2baf"
 }

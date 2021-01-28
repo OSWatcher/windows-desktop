@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-dosexec",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "PE32+ executable (DLL) (console) x86-64, for MS Windows",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "b7b402817fe0c688639c9e05f9799b64aeb4cf45"
+  "sha1": "01af81806bd72cb061166afb553c076e6a6e17c2"
 }

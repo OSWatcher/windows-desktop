@@ -1,7 +1,7 @@
 {
-  "MIME": "text/x-c++",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "C++ source, Little-endian UTF-16 Unicode text, with CRLF line terminators",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "e0e60e10d09a0eb7853ce2abec07defcb5af1087"
+  "sha1": "db0ad0a6c96898f8bc299b28e97d36ac3d806417"
 }

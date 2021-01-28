@@ -1,7 +1,7 @@
 {
-  "MIME": "application/x-setupscript",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Windows setup INFormation",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "ac04d8c5f461d0cdcc328509efbcf1f7259be693"
+  "sha1": "c9cdb58342934ea82ac1bf58137272795af84222"
 }

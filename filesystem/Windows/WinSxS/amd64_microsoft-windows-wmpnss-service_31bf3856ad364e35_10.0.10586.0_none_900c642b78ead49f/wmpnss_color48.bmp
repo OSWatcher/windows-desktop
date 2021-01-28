@@ -1,7 +1,7 @@
 {
-  "MIME": "image/bmp",
+  "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "PC bitmap, Windows 3.x format, 48 x 48 x 32, image size 9218, resolution 2834 x 2834 px/m, cbSize 9272, bits offset 54",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "61d864f64a033a02bce75442d26a7549c010b12f"
+  "sha1": "127d50b764ad229e0ddcf46078c573f6e57573f8"
 }
