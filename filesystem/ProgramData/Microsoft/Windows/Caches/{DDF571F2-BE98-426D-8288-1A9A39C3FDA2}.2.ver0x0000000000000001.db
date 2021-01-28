@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "Spectrum .TAP data \"5\\256\\2350\" - BASIC program",
+  "magic_type": "Spectrum .TAP data \"\\014\\237\\0\" - BASIC program",
   "mode": "-rwxrwxrwx",
-  "sha1": "e2851df654e937b6e58e72b886fc4ff0cbed930e"
+  "sha1": "c2b82187d48a231a439df5b7ef260fb6828eecfd"
 }

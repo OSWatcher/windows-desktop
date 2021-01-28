@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, digitally signed, 11 tables, 1st \"DSIG\", 10 names, Microsoft, language 0x409, \\251 2016 Microsoft Corporation. All Rights Reserved.Microsoft YaHei BootRegularMicrosoft YaHei ",
+  "magic_type": "TrueType Font data, digitally signed, 11 tables, 1st \"DSIG\", 10 names, Microsoft, language 0x409, \\251 2017 Microsoft Corporation. All Rights Reserved.Microsoft YaHei BootRegularMicrosoft YaHei ",
   "mode": "-rwxrwxrwx",
-  "sha1": "044026fe3863134b724eae711bf1687603e3b921"
+  "sha1": "ce0b56785a598faa0c568d6a297ca415f9b7f456"
 }

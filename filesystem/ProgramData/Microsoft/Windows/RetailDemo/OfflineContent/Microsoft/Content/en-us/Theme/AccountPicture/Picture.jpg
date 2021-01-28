@@ -1,7 +1,0 @@
-{
-  "MIME": "image/jpeg",
-  "inode_type": "REG",
-  "magic_type": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=17, height=2560, bps=0, PhotometricIntepretation=RGB, manufacturer=NIKON CORPORATION, model=NIKON D3X, orientation=upper-left, width=1707], baseline, precision 8, 480x480, components 3",
-  "mode": "-rwxrwxrwx",
-  "sha1": "3dd2576dfb74348e0f8b84fdf8383ac927413a6f"
-}

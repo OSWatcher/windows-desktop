@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-sqlite3",
   "inode_type": "REG",
-  "magic_type": "SQLite 3.x database, user version 2560, last written using SQLite version 3009002",
+  "magic_type": "SQLite 3.x database, user version 6912, last written using SQLite version 3015002",
   "mode": "-rwxrwxrwx",
-  "sha1": "163e3bcee78860d8b2a8e48e5bf184a2c9d194dc"
+  "sha1": "9b25ed33d648dfb216b21193a5047d35a7d892da"
 }

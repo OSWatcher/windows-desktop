@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "data",
+  "magic_type": "amd 29k coff prebar executable",
   "mode": "-rwxrwxrwx",
-  "sha1": "b566d956a98a512aeae1551ec8316ac1af325f36"
+  "sha1": "c46bdea6dc285c1acfdf8ea7796123e44937da1c"
 }

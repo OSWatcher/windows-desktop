@@ -1,7 +1,7 @@
 {
   "MIME": "text/html",
   "inode_type": "REG",
-  "magic_type": "HTML document, UTF-8 Unicode (with BOM) text, with CRLF line terminators",
+  "magic_type": "HTML document, ASCII text, with CRLF line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "27cd91b082849ab067d01330eb41f9c37062de75"
+  "sha1": "2ea832b91d4f56886348d1577b8b4ca4f8d0f4c2"
 }

@@ -1,0 +1,7 @@
+{
+  "MIME": "application/octet-stream",
+  "inode_type": "REG",
+  "magic_type": "DOS/MBR boot sector; partition 1 : ID=0x5d, active 0xb2, start-CHS (0x27e,126,34), end-CHS (0x39f,226,23), startsector 3954607719, 4217530809 sectors; partition 4 : ID=0x13, active 0x94, start-CHS (0x17d,241,10), end-CHS (0x31a,250,11), startsector 2582412406, 3266818981 sectors",
+  "mode": "-rwxrwxrwx",
+  "sha1": "31bfd13e4ad84c3da16f8a06539beba5bc8b9268"
+}
