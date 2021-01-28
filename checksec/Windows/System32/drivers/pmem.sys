@@ -6,5 +6,5 @@
   "manifest_isolation": true,
   "nx_compat": true,
   "seh": true,
-  "signed": false
+  "signed": true
 }

@@ -1,7 +1,7 @@
 {
   "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "UTF-8 Unicode text, with CRLF line terminators",
+  "magic_type": "ISO-8859 text, with CRLF line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "67f05da0d90caa23b4d63d74b02c843d9f762251"
+  "sha1": "d234eabe1ea14515cbf47d0f2f00e3a2bfbc336a"
 }
