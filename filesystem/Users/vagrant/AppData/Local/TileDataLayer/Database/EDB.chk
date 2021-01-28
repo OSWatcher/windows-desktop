@@ -1,7 +1,7 @@
 {
   "MIME": "application/octet-stream",
   "inode_type": "REG",
-  "magic_type": "SVR2 pure executable (USS/370) not stripped - version 134351644",
+  "magic_type": "data",
   "mode": "-rwxrwxrwx",
-  "sha1": "549d8ffa61158dc8d84afd2122e050db870810a1"
+  "sha1": "52cb18eac6185983869d522e5d2002abbaab1377"
 }

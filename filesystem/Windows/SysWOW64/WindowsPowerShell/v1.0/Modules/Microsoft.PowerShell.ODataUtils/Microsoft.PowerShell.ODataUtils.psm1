@@ -1,7 +1,7 @@
 {
-  "MIME": "text/x-c++",
+  "MIME": "text/plain",
   "inode_type": "REG",
-  "magic_type": "C++ source, ASCII text, with CRLF line terminators",
+  "magic_type": "awk or perl script, Little-endian UTF-16 Unicode text, with CRLF line terminators",
   "mode": "-rwxrwxrwx",
-  "sha1": "0286bca44d1b18fb411785ec0d31394083bc5067"
+  "sha1": "cd579c6808163e5e8e4e7b6ca2cf2a0e0d446298"
 }

@@ -1,0 +1,7 @@
+{
+  "MIME": "text/xml",
+  "inode_type": "REG",
+  "magic_type": "XML document, UTF-8 Unicode (with BOM) text, with CRLF line terminators",
+  "mode": "-rwxrwxrwx",
+  "sha1": "0493fd6ec5e0c3f2cab75f1b87b8800a7221a45b"
+}
