@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-ms-wim",
-  "inode_type": "REG",
-  "magic_type": "Windows imaging (ESD) image v0.14, LZMS compressed, reparse point fixup",
-  "mode": "-rwxrwxrwx",
-  "sha1": "a57b22a08d86b508a3cb691e5b5a1007cfccabf2"
-}
