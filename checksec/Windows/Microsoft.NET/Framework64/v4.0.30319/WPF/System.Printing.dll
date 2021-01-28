@@ -1,7 +1,7 @@
 {
   "dynamic_base": true,
   "force_integrity": false,
-  "guard_cf": false,
+  "guard_cf": true,
   "high_entropy_va": true,
   "manifest_isolation": true,
   "nx_compat": true,

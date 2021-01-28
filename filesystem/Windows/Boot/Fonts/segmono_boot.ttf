@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, 10 tables, 1st \"OS/2\", 11 names, Macintosh, type 5 string, Version 1.35",
+  "magic_type": "TrueType Font data, digitally signed, 11 tables, 1st \"DSIG\", 10 names, Microsoft, language 0x409, \\251 2016 Microsoft Corporation. All Rights Reserved.Segoe Mono BootRegularVersion 1.36SegoeMono",
   "mode": "-rwxrwxrwx",
-  "sha1": "42f69bc2b53bf64da4358f6cbfcd0d236a26168b"
+  "sha1": "cf6f075b837cffff3e138f543e01d8a343de9001"
 }

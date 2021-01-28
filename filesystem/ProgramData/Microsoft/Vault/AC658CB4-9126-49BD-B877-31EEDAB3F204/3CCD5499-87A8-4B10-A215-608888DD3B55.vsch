@@ -1,7 +1,0 @@
-{
-  "MIME": "application/x-tplink-bin",
-  "inode_type": "REG",
-  "magic_type": "firmware 7700 v6f00 (revision 1912628224) \\231T\\315<\\250\\207\\020K\\ @, version 0.2048.0 (region 536888064), 0 bytes or less, UNKNOWN1 0x20004300, UNKNOWN2 0x6c000000, UNKNOWN3 0x2000000, at 0x3000000 117440512 bytes , at 0x0 0 bytes , at 0x7006400 2048 bytes",
-  "mode": "-rwxrwxrwx",
-  "sha1": "8216c5d18000ff6c11f0b562a85d650b3e07da7c"
-}

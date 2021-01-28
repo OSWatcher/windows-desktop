@@ -1,0 +1,10 @@
+{
+  "dynamic_base": false,
+  "force_integrity": false,
+  "guard_cf": false,
+  "high_entropy_va": false,
+  "manifest_isolation": true,
+  "nx_compat": false,
+  "seh": true,
+  "signed": true
+}

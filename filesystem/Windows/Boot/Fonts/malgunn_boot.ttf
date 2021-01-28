@@ -1,7 +1,7 @@
 {
   "MIME": "font/sfnt",
   "inode_type": "REG",
-  "magic_type": "TrueType Font data, 10 tables, 1st \"OS/2\", 11 names, Macintosh, type 5 string, Version 1.35",
+  "magic_type": "TrueType Font data, digitally signed, 11 tables, 1st \"DSIG\", 10 names, Microsoft, language 0x409, \\251 2016 Microsoft Corporation. All Rights Reserved.Malgun Gothic BootRegularMalgun Gothic Boot",
   "mode": "-rwxrwxrwx",
-  "sha1": "84494c2c3bdef4aeadcc09c70a9b14f10b61f42b"
+  "sha1": "d91c3eed357cd8684bd61f917f393b16649c1252"
 }
