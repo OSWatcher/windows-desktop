@@ -1,0 +1,7 @@
+{
+  "MIME": "application/x-tplink-bin",
+  "inode_type": "REG",
+  "magic_type": "firmware 100 v0 (revision 0) `  V2, 16777216 bytes or less, UNKNOWN3 0x1000000, at 0x1000000 0 bytes , at 0x0 0 bytes ",
+  "mode": "-rwxrwxrwx",
+  "sha1": "cca7be0b590583a72276069d0d8f6f9a858bb092"
+}

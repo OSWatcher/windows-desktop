@@ -1,0 +1,7 @@
+{
+  "MIME": "application/vnd.ms-cab-compressed",
+  "inode_type": "REG",
+  "magic_type": "Microsoft Cabinet archive data, many, 12873 bytes, 8 files, at 0x44 +A \"_manifest_.cix.xml\" +A \"amd64_microsoft-windows-oobe-machine_31bf3856ad364e35_10.0.10240.16599_none_1580af2d9ddd31f7.ma\", flags 0x4, number 1, extra bytes 20 in head, 2 datablocks, 0x1503 compression",
+  "mode": "-rwxrwxrwx",
+  "sha1": "889146bb5b7fe7213d05825b72789d0d92100cc8"
+}
