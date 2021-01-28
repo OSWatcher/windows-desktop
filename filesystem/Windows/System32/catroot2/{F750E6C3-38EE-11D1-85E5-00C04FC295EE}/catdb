@@ -1,7 +1,7 @@
 {
   "MIME": "application/x-ms-ese",
   "inode_type": "REG",
-  "magic_type": "Extensible storage engine DataBase, version 0x620, checksum 0xf02e270e, page size 4096, Windows version 10.0",
+  "magic_type": "Extensible storage engine DataBase, version 0x620, checksum 0x501729dd, page size 4096, Windows version 10.0",
   "mode": "-rwxrwxrwx",
-  "sha1": "787dde342cfceaf5ea802ad39dbc541e0662f058"
+  "sha1": "fea0382714f9ee4f0bd5d5cdc780c27d3865c15d"
 }

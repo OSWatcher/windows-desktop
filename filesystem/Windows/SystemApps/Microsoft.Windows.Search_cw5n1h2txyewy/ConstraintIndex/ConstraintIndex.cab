@@ -1,0 +1,7 @@
+{
+  "MIME": "application/vnd.ms-cab-compressed",
+  "inode_type": "REG",
+  "magic_type": "Microsoft Cabinet archive data, many, 536252 bytes, 10 files, at 0x2c +A \"apps.csg\" +A \"apps.schema\", ID 36447, number 1, 83 datablocks, 0x1503 compression",
+  "mode": "-rwxrwxrwx",
+  "sha1": "e8da6bdc287c9d2bbd6d7e22a2c80975fc06c698"
+}

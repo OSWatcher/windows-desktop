@@ -1,0 +1,7 @@
+{
+  "MIME": "application/octet-stream",
+  "inode_type": "REG",
+  "magic_type": "Hitachi SH big-endian COFF object file, not stripped, 0 section, symbol offset=0x25000000, -1471574722 symbols",
+  "mode": "-rwxrwxrwx",
+  "sha1": "1e2c849ebee6b1b0648f4be5f7ead1f1e9e8216d"
+}

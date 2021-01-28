@@ -1,7 +1,0 @@
-{
-  "MIME": "application/json",
-  "inode_type": "REG",
-  "magic_type": "JSON data",
-  "mode": "-rwxrwxrwx",
-  "sha1": "9faa3572d2d92bd791f9bbf4f753aa969f347688"
-}
